@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="240dp"
+    android:viewportWidth="240"
+    android:viewportHeight="240">
+    
+    <!-- Map Background -->
+    <path
+        android:fillColor="#E8F5E9"
+        android:pathData="M0,0h240v240h-240z" />
+    
+    <!-- Map Grid -->
+    <path
+        android:strokeColor="#81C784"
+        android:strokeWidth="1"
+        android:pathData="M0,40h240M0,80h240M0,120h240M0,160h240M0,200h240" />
+    <path
+        android:strokeColor="#81C784"
+        android:strokeWidth="1"
+        android:pathData="M40,0v240M80,0v240M120,0v240M160,0v240M200,0v240" />
+    
+    <!-- Location Marker -->
+    <path
+        android:fillColor="#F44336"
+        android:pathData="M120,120m-20,0a20,20 0,1 1,40 0a20,20 0,1 1,-40 0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M120,120m-10,0a10,10 0,1 1,20 0a10,10 0,1 1,-20 0" />
+    
+    <!-- Route Line -->
+    <path
+        android:strokeColor="#2196F3"
+        android:strokeWidth="4"
+        android:pathData="M40,40L120,120L200,200" />
+</vector> 

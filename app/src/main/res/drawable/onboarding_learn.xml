@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="240dp"
+    android:viewportWidth="240"
+    android:viewportHeight="240">
+    
+    <!-- Book -->
+    <path
+        android:fillColor="#FFC107"
+        android:pathData="M60,40h120v160h-120z" />
+    <path
+        android:fillColor="#FFA000"
+        android:pathData="M60,40h120v20h-120z" />
+    
+    <!-- Pages -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M70,70h100v120h-100z" />
+    
+    <!-- Text Lines -->
+    <path
+        android:strokeColor="#757575"
+        android:strokeWidth="2"
+        android:pathData="M80,90h80M80,110h80M80,130h80M80,150h80M80,170h60" />
+    
+    <!-- Light Bulb -->
+    <path
+        android:fillColor="#FFEB3B"
+        android:pathData="M180,100m-15,0a15,15 0,1 1,30 0a15,15 0,1 1,-30 0" />
+    <path
+        android:strokeColor="#FFC107"
+        android:strokeWidth="2"
+        android:pathData="M180,115v20M170,130h20" />
+</vector> 

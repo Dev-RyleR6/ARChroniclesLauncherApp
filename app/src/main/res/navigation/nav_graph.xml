@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.example.launcher.ui.home.HomeFragment"
+        android:label="Home">
+        <action
+            android:id="@+id/action_home_to_map"
+            app:destination="@id/navigation_map" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_landmarks"
+        android:name="com.example.launcher.ui.landmarks.LandmarkListFragment"
+        android:label="Landmarks">
+        <action
+            android:id="@+id/action_landmarkList_to_detail"
+            app:destination="@id/landmarkDetailFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_map"
+        android:name="com.example.launcher.ui.map.MapFragment"
+        android:label="Map">
+        <argument
+            android:name="landmarkTitle"
+            app:argType="string"
+            app:nullable="true" />
+        <argument
+            android:name="landmarkDescription"
+            app:argType="string"
+            app:nullable="true" />
+        <argument
+            android:name="landmarkImageResId"
+            app:argType="integer"
+            app:defaultValue="0" />
+        <argument
+            android:name="latitude"
+            app:argType="float"
+            app:defaultValue="0.0" />
+        <argument
+            android:name="longitude"
+            app:argType="float"
+            app:defaultValue="0.0" />
+        <action
+            android:id="@+id/actionMapToDetail"
+            app:destination="@id/landmarkDetailFragment">
+            <argument
+                android:name="landmarkTitle"
+                app:argType="string" />
+            <argument
+                android:name="landmarkDescription"
+                app:argType="string" />
+            <argument
+                android:name="landmarkImageResId"
+                app:argType="integer" />
+            <argument
+                android:name="latitude"
+                app:argType="float" />
+            <argument
+                android:name="longitude"
+                app:argType="float" />
+        </action>
+    </fragment>
+
+    <fragment
+        android:id="@+id/landmarkDetailFragment"
+        android:name="com.example.launcher.ui.landmarks.LandmarkDetailFragment"
+        android:label="Landmark Details">
+        <argument
+            android:name="landmarkTitle"
+            app:argType="string" />
+        <argument
+            android:name="landmarkDescription"
+            app:argType="string" />
+        <argument
+            android:name="landmarkImageResId"
+            app:argType="integer" />
+        <argument
+            android:name="latitude"
+            app:argType="float" />
+        <argument
+            android:name="longitude"
+            app:argType="float" />
+        <action
+            android:id="@+id/actionDetailToMap"
+            app:destination="@id/navigation_map">
+            <argument
+                android:name="landmarkTitle"
+                app:argType="string"
+                app:nullable="true" />
+            <argument
+                android:name="landmarkDescription"
+                app:argType="string"
+                app:nullable="true" />
+            <argument
+                android:name="landmarkImageResId"
+                app:argType="integer"
+                app:defaultValue="0" />
+            <argument
+                android:name="latitude"
+                app:argType="float"
+                app:defaultValue="0.0" />
+            <argument
+                android:name="longitude"
+                app:argType="float"
+                app:defaultValue="0.0" />
+        </action>
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_settings"
+        android:name="com.example.launcher.ui.settings.SettingsFragment"
+        android:label="Settings" />
+
+</navigation> 

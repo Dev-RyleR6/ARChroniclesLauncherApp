@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CircleImageView" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <style name="RoundedImageView" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">16dp</item>
+    </style>
+
+    <style name="LandmarkCardText" parent="Widget.MaterialComponents.TextView">
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:forceDarkAllowed">false</item>
+    </style>
+
+    <style name="DeveloperNameText" parent="Widget.MaterialComponents.TextView">
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:forceDarkAllowed">false</item>
+    </style>
+
+    <style name="DeveloperPositionText" parent="Widget.MaterialComponents.TextView">
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:forceDarkAllowed">false</item>
+    </style>
+
+    <!-- Onboarding text styles -->
+    <style name="OnboardingTitleText">
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="OnboardingDescriptionText">
+        <item name="android:textColor">@color/text_secondary</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+</resources> 

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#121212</color>
+    <color name="black">#000000</color>
+    <color name="card_background">#1E1E1E</color>
+    <color name="card_elevation">#000000</color>
+    <color name="card_stroke">#2D2D2D</color>
+    <color name="divider">#2D2D2D</color>
+    <color name="error">#E57373</color>
+    <color name="landmark_card_background">#1E1E1E</color>
+    <color name="landmark_card_stroke">#2D2D2D</color>
+    <color name="map_landmark_card_background">#1E1E1E</color>
+    <color name="map_landmark_card_stroke">#2D2D2D</color>
+    <color name="on_surface">#000000</color>
+    <color name="on_surface_variant">#000000</color>
+    <color name="outline">#4D4D4D</color>
+    <color name="primary">#A1887F</color>
+    <color name="primary_dark">#8D6E63</color>
+    <color name="ripple">#33FFFFFF</color>
+    <color name="secondary">#BCAAA4</color>
+    <color name="secondary_dark">#A1887F</color>
+    <color name="success">#81C784</color>
+    <color name="surface">#1E1E1E</color>
+    <color name="surface_variant">#2D2D2D</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#E0E0E0</color>
+    <color name="text_secondary_dark">#B3FFFFFF</color>
+    <color name="warning">#FFB74D</color>
+    <color name="white">#FFFFFF</color>
+    <style name="OnboardingDescriptionText">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="OnboardingTitleText">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Theme.LauncherApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorSecondaryVariant">@color/secondary_dark</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        
+        
+        <item name="android:colorBackground">@color/background_dark</item>
+        <item name="colorOnBackground">#000000</item>
+        <item name="colorSurface">@color/surface_dark</item>
+        <item name="colorOnSurface">#000000</item>
+        <item name="colorOnSurfaceVariant">#000000</item>
+        
+        
+        <item name="android:navigationBarColor">@color/primary_dark</item>
+        
+        
+        <item name="android:windowLightStatusBar">false</item>
+        
+        
+        <item name="android:windowLightNavigationBar">false</item>
+
+        
+        <item name="android:textColorPrimary">#000000</item>
+        <item name="android:textColorSecondary">#000000</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+</resources>

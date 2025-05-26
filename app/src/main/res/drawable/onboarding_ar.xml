@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="240dp"
+    android:height="240dp"
+    android:viewportWidth="240"
+    android:viewportHeight="240">
+    
+    <!-- AR Device Frame -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M120,60m-40,0a40,40 0,1 1,80 0a40,40 0,1 1,-80 0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M120,60m-35,0a35,35 0,1 1,70 0a35,35 0,1 1,-70 0" />
+    
+    <!-- AR Elements -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M100,100m-20,0a20,20 0,1 1,40 0a20,20 0,1 1,-40 0" />
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M140,140m-15,0a15,15 0,1 1,30 0a15,15 0,1 1,-30 0" />
+    
+    <!-- AR Lines -->
+    <path
+        android:strokeColor="#FF5722"
+        android:strokeWidth="2"
+        android:pathData="M80,80L160,160" />
+    <path
+        android:strokeColor="#FF5722"
+        android:strokeWidth="2"
+        android:pathData="M160,80L80,160" />
+</vector> 

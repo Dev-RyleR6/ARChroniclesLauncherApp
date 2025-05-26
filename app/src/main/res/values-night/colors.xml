@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand colors -->
+    <color name="primary">#A1887F</color>  <!-- Lighter Brown for better visibility -->
+    <color name="primary_dark">#8D6E63</color>  <!-- Medium Brown -->
+    <color name="secondary">#BCAAA4</color>  <!-- Light Brown -->
+    <color name="secondary_dark">#A1887F</color>  <!-- Medium Brown -->
+    
+    <!-- Background colors -->
+    <color name="background">#121212</color>  <!-- Dark background -->
+    <color name="surface">#1E1E1E</color>  <!-- Dark surface -->
+    <color name="surface_variant">#2D2D2D</color>  <!-- Dark surface variant -->
+    
+    <!-- Card colors -->
+    <color name="card_background">#1E1E1E</color>  <!-- Dark card background -->
+    <color name="card_stroke">#2D2D2D</color>  <!-- Card border color -->
+    <color name="card_elevation">#000000</color>  <!-- Card shadow color -->
+    <color name="landmark_card_background">#1E1E1E</color>  <!-- Dark background for landmark cards -->
+    <color name="landmark_card_stroke">#2D2D2D</color>  <!-- Border color for landmark cards -->
+    <color name="map_landmark_card_background">#1E1E1E</color>  <!-- Dark background for map landmark cards -->
+    <color name="map_landmark_card_stroke">#2D2D2D</color>  <!-- Border color for map landmark cards -->
+    
+    <!-- Text colors -->
+    <color name="text_primary">#FFFFFF</color>  <!-- White for onboarding -->
+    <color name="text_secondary">#E0E0E0</color>  <!-- Light Gray for onboarding -->
+    <color name="text_secondary_dark">#B3FFFFFF</color>  <!-- Semi-transparent white for onboarding -->
+    <color name="on_surface">#000000</color>  <!-- Black for cards -->
+    <color name="on_surface_variant">#000000</color>  <!-- Black for cards -->
+    
+    <!-- Utility colors -->
+    <color name="outline">#4D4D4D</color>  <!-- Dark Gray -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="divider">#2D2D2D</color>  <!-- Darker divider for better contrast -->
+    <color name="ripple">#33FFFFFF</color>  <!-- White ripple with 20% opacity -->
+    
+    <!-- Status colors -->
+    <color name="success">#81C784</color>  <!-- Light Green -->
+    <color name="error">#E57373</color>  <!-- Light Red -->
+    <color name="warning">#FFB74D</color>  <!-- Light Orange -->
+</resources> 

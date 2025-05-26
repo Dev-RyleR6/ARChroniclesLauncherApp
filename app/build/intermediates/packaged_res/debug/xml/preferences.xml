@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory
+        android:title="@string/appearance"
+        app:iconSpaceReserved="false">
+
+        <ListPreference
+            android:key="theme"
+            android:title="@string/theme"
+            android:summary="@string/theme_summary"
+            android:entries="@array/theme_entries"
+            android:entryValues="@array/theme_values"
+            app:iconSpaceReserved="false" />
+
+        <ListPreference
+            android:key="language"
+            android:title="@string/language"
+            android:summary="@string/language_summary"
+            android:entries="@array/language_entries"
+            android:entryValues="@array/language_values"
+            app:iconSpaceReserved="false" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/data_and_privacy"
+        app:iconSpaceReserved="false">
+
+        <SwitchPreferenceCompat
+            android:key="data_usage"
+            android:title="@string/data_usage"
+            android:summary="@string/data_usage_summary"
+            android:defaultValue="true"
+            app:iconSpaceReserved="false" />
+
+        <SwitchPreferenceCompat
+            android:key="notifications"
+            android:title="@string/notifications"
+            android:summary="@string/notifications_summary"
+            android:defaultValue="true"
+            app:iconSpaceReserved="false" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/about"
+        app:iconSpaceReserved="false">
+
+        <Preference
+            android:key="about"
+            android:title="@string/about"
+            android:summary="@string/about_summary"
+            app:iconSpaceReserved="false" />
+
+        <Preference
+            android:key="version"
+            android:title="@string/version"
+            android:selectable="false"
+            app:iconSpaceReserved="false" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen> 

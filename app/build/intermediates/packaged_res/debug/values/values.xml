@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="language_entries">
+        <item>English</item>
+        <item>Filipino</item>
+        <item>System default</item>
+    </string-array>
+    <string-array name="language_values">
+        <item>en</item>
+        <item>fil</item>
+        <item>system</item>
+    </string-array>
+    <string-array name="theme_entries">
+        <item>Light</item>
+        <item>Dark</item>
+        <item>System default</item>
+    </string-array>
+    <string-array name="theme_values">
+        <item>light</item>
+        <item>dark</item>
+        <item>system</item>
+    </string-array>
+    <color name="background">#F5F5F5</color>
+    <color name="background_dark">#FF121212</color>
+    <color name="black">#000000</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="card_stroke">#E0E0E0</color>
+    <color name="colorAccent">@color/secondary</color>
+    <color name="colorAccentDark">@color/secondary_dark</color>
+    <color name="colorPrimary">@color/primary</color>
+    <color name="colorPrimaryDark">@color/primary_dark</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="error">#B00020</color>
+    <color name="primary">#795548</color>
+    <color name="primary_dark">#5D4037</color>
+    <color name="primary_light">#BCAAA4</color>
+    <color name="ripple">#1F000000</color>
+    <color name="secondary">#8D6E63</color>
+    <color name="secondary_dark">#5D4037</color>
+    <color name="secondary_light">#BCAAA4</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_dark">#FF1E1E1E</color>
+    <color name="text_hint">#61000000</color>
+    <color name="text_hint_dark">#61FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_primary_dark">#DEFFFFFF</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_secondary_dark">#99FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFF</color>
+    <dimen name="tab_height">3dp</dimen>
+    <dimen name="tab_width">4dp</dimen>
+    <string name="about">About</string>
+    <string name="about_message">ARChronicles is an augmented reality application that brings historical landmarks to life. Experience the rich history of your city through immersive AR technology.\n\nDeveloped with ❤️ for history enthusiasts.</string>
+    <string name="about_summary">Learn more about ARChronicles</string>
+    <string name="app_name">ARChronicles</string>
+    <string name="appearance">Appearance</string>
+    <string name="ar_experience">AR Experience</string>
+    <string name="data_and_privacy">Data &amp; Privacy</string>
+    <string name="data_usage">Data Usage</string>
+    <string name="data_usage_summary">Allow app to use mobile data for AR content</string>
+    <string name="distance_kilometers">%1$.1f km</string>
+    <string name="distance_meters">%1$.0f m</string>
+    <string name="distance_unknown">Distance unknown</string>
+    <string name="featured_description">Explore our curated collection of historical sites</string>
+    <string name="featured_landmarks">Featured Landmarks</string>
+    <string name="interactive_map">Interactive Map</string>
+    <string name="landmark_details">Landmark Details</string>
+    <string name="landmark_image">Landmark Image</string>
+    <string name="landmark_photo">Photo of landmark</string>
+    <string name="landmarks">Landmarks</string>
+    <string name="language">Language</string>
+    <string name="language_summary">Select your preferred language</string>
+    <string name="map_description">View landmarks on an interactive map</string>
+    <string name="nav_ar">AR</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_landmarks">Landmarks</string>
+    <string name="nav_map">Map</string>
+    <string name="nav_settings">Settings</string>
+    <string name="notifications">Notifications</string>
+    <string name="notifications_summary">Receive updates about new landmarks and features</string>
+    <string name="settings">Settings</string>
+    <string name="show_map">Show on Map</string>
+    <string name="theme">Theme</string>
+    <string name="theme_summary">Choose between light, dark, or system theme</string>
+    <string name="title_ar">AR</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="title_home">Home</string>
+    <string name="title_maps">Maps</string>
+    <string name="title_settings">Settings</string>
+    <string name="toggle_theme">Toggle Theme</string>
+    <string name="version">Version</string>
+    <string name="welcome_description">Discover historical landmarks through augmented reality</string>
+    <string name="welcome_message">Welcome to ARChronicles</string>
+    <style name="CircleImageView" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+    <style name="DeveloperNameText" parent="Widget.MaterialComponents.TextView">
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:forceDarkAllowed">false</item>
+    </style>
+    <style name="DeveloperPositionText" parent="Widget.MaterialComponents.TextView">
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:forceDarkAllowed">false</item>
+    </style>
+    <style name="LandmarkCardText" parent="Widget.MaterialComponents.TextView">
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:forceDarkAllowed">false</item>
+    </style>
+    <style name="OnboardingDescriptionText">
+        <item name="android:textColor">@color/text_secondary</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="OnboardingTitleText">
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="RoundedImageView" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">16dp</item>
+    </style>
+    <style name="Theme.ARChronicles" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorSecondaryVariant">@color/secondary_dark</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        
+        
+        <item name="android:colorBackground">@color/background</item>
+        <item name="colorOnBackground">@color/text_primary</item>
+        <item name="colorSurface">@color/white</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        <item name="colorOnSurfaceVariant">@color/text_secondary</item>
+        
+        
+        <item name="android:navigationBarColor">@color/primary_dark</item>
+        
+        
+        <item name="android:windowLightStatusBar">true</item>
+        
+        
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+    <style name="Theme.ARChronicles.NoActionBar" parent="Theme.ARChronicles">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:statusBarColor">@color/background</item>
+        <item name="android:navigationBarColor">@color/background</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+    <style name="Theme.ARChronicles.Splash" parent="Theme.ARChronicles">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+        <item name="android:statusBarColor">@color/primary</item>
+        <item name="android:navigationBarColor">@color/primary</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+    <style name="Theme.LauncherApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorSecondaryVariant">@color/secondary_dark</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        
+        
+        <item name="android:colorBackground">@color/background</item>
+        <item name="colorOnBackground">@color/text_primary</item>
+        <item name="colorSurface">@color/white</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+        <item name="colorOnSurfaceVariant">@color/text_secondary</item>
+        
+        
+        <item name="android:navigationBarColor">@color/primary_dark</item>
+        
+        
+        <item name="android:windowLightStatusBar">true</item>
+        
+        
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+    <style name="Theme.LauncherApp.Fullscreen" parent="Theme.LauncherApp.NoActionBar">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:navigationBarColor">@color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+    <style name="Theme.LauncherApp.NoActionBar" parent="Theme.LauncherApp">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.LauncherApp.Splash" parent="Theme.LauncherApp.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+        <item name="android:statusBarColor">@color/primary</item>
+        <item name="android:navigationBarColor">@color/primary</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+    <style name="Widget.App.CardView" parent="Widget.MaterialComponents.CardView">
+        <item name="cardBackgroundColor">@color/white</item>
+        <item name="cardElevation">4dp</item>
+        <item name="cardCornerRadius">16dp</item>
+        <item name="contentPadding">16dp</item>
+        <item name="rippleColor">@color/ripple</item>
+    </style>
+</resources>

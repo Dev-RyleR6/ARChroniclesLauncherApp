@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-mergeDebugResources-3:\\layout\\activity_landmark_detail.xml",
+        "source": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-main-6:\\layout\\activity_landmark_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-mergeDebugResources-3:\\layout\\activity_landmark_map.xml",
+        "source": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-main-6:\\layout\\activity_landmark_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-mergeDebugResources-3:\\layout\\activity_map_list.xml",
+        "source": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-main-6:\\layout\\activity_map_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-mergeDebugResources-3:\\layout\\activity_landmark_map_cards.xml",
+        "source": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-main-6:\\layout\\activity_landmark_map_cards.xml"
+    },
+    {
+        "merged": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-mergeDebugResources-3:\\layout\\fragment_landmark_detail.xml",
+        "source": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-main-6:\\layout\\fragment_landmark_detail.xml"
+    },
+    {
+        "merged": "com.example.launcher.app-mergeDebugResources-3:/layout/item_onboarding_landmarks.xml",
+        "source": "com.example.launcher.app-main-6:/layout/item_onboarding_landmarks.xml"
+    },
+    {
+        "merged": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-mergeDebugResources-3:\\layout\\activity_map_detail.xml",
+        "source": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-main-6:\\layout\\activity_map_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-mergeDebugResources-3:\\layout\\fragment_onboarding.xml",
+        "source": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-main-6:\\layout\\fragment_onboarding.xml"
+    },
+    {
+        "merged": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-mergeDebugResources-3:\\layout\\item_onboarding_welcome.xml",
+        "source": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-main-6:\\layout\\item_onboarding_welcome.xml"
+    },
+    {
+        "merged": "com.example.launcher.app-mergeDebugResources-3:/layout/fragment_about.xml",
+        "source": "com.example.launcher.app-main-6:/layout/fragment_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-mergeDebugResources-3:\\layout\\activity_landmarks.xml",
+        "source": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-main-6:\\layout\\activity_landmarks.xml"
+    },
+    {
+        "merged": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-mergeDebugResources-3:\\layout\\fragment_about.xml",
+        "source": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-main-6:\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-mergeDebugResources-3:\\layout\\item_onboarding_map.xml",
+        "source": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-main-6:\\layout\\item_onboarding_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-mergeDebugResources-3:\\layout\\fragment_ar.xml",
+        "source": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-main-6:\\layout\\fragment_ar.xml"
+    },
+    {
+        "merged": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-mergeDebugResources-3:\\layout\\activity_landmark_list.xml",
+        "source": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-main-6:\\layout\\activity_landmark_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-mergeDebugResources-3:\\layout\\activity_settings.xml",
+        "source": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-main-6:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-mergeDebugResources-3:\\layout\\item_launcher_card.xml",
+        "source": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-main-6:\\layout\\item_launcher_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-mergeDebugResources-3:\\layout\\item_landmark.xml",
+        "source": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-main-6:\\layout\\item_landmark.xml"
+    },
+    {
+        "merged": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-mergeDebugResources-3:\\layout\\fragment_settings.xml",
+        "source": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-main-6:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-mergeDebugResources-3:\\layout\\fragment_map_detail.xml",
+        "source": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-main-6:\\layout\\fragment_map_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-mergeDebugResources-3:\\layout\\fragment_landmark_list.xml",
+        "source": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-main-6:\\layout\\fragment_landmark_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-mergeDebugResources-3:\\layout\\dialog_about.xml",
+        "source": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-main-6:\\layout\\dialog_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-mergeDebugResources-3:\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-main-6:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.example.launcher.app-mergeDebugResources-3:/layout/fragment_landmark_detail.xml",
+        "source": "com.example.launcher.app-main-6:/layout/fragment_landmark_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-mergeDebugResources-3:\\layout\\item_map.xml",
+        "source": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-main-6:\\layout\\item_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-mergeDebugResources-3:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-main-6:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-mergeDebugResources-3:\\layout\\fragment_map.xml",
+        "source": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-main-6:\\layout\\fragment_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-mergeDebugResources-3:\\layout\\landmark_list_item.xml",
+        "source": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-main-6:\\layout\\landmark_list_item.xml"
+    },
+    {
+        "merged": "com.example.launcher.app-mergeDebugResources-3:/layout/item_onboarding_map.xml",
+        "source": "com.example.launcher.app-main-6:/layout/item_onboarding_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-mergeDebugResources-3:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-main-6:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-mergeDebugResources-3:\\layout\\item_onboarding.xml",
+        "source": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-main-6:\\layout\\item_onboarding.xml"
+    },
+    {
+        "merged": "com.example.launcher.app-mergeDebugResources-3:/layout/item_onboarding.xml",
+        "source": "com.example.launcher.app-main-6:/layout/item_onboarding.xml"
+    },
+    {
+        "merged": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-mergeDebugResources-3:\\layout\\marker_info_window.xml",
+        "source": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-main-6:\\layout\\marker_info_window.xml"
+    },
+    {
+        "merged": "com.example.launcher.app-mergeDebugResources-3:/layout/marker_info_window.xml",
+        "source": "com.example.launcher.app-main-6:/layout/marker_info_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-mergeDebugResources-3:\\layout\\activity_map_view.xml",
+        "source": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-main-6:\\layout\\activity_map_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-mergeDebugResources-3:\\layout\\item_landmark_image.xml",
+        "source": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-main-6:\\layout\\item_landmark_image.xml"
+    },
+    {
+        "merged": "com.example.launcher.app-mergeDebugResources-3:/layout/item_onboarding_welcome.xml",
+        "source": "com.example.launcher.app-main-6:/layout/item_onboarding_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-mergeDebugResources-3:\\layout\\item_onboarding_landmarks.xml",
+        "source": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-main-6:\\layout\\item_onboarding_landmarks.xml"
+    },
+    {
+        "merged": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-mergeDebugResources-3:\\layout\\item_card.xml",
+        "source": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-main-6:\\layout\\item_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-mergeDebugResources-3:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-mergeDebugResources-3:\\layout\\activity_onboarding.xml",
+        "source": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-main-6:\\layout\\activity_onboarding.xml"
+    },
+    {
+        "merged": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-mergeDebugResources-3:\\layout\\item_landmark_map_card.xml",
+        "source": "C:\\Users\\neila\\.gradle\\daemon\\8.10.2\\com.example.launcher.app-main-6:\\layout\\item_landmark_map_card.xml"
+    }
+]

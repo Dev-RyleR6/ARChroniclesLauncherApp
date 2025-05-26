@@ -1,0 +1,3 @@
+-keep class com.unity3d.** { *; }
+-keep class unity.** { *; }
+-dontwarn com.unity3d.**

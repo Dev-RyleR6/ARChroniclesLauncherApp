@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="32dp">
+
+    <ImageView
+        android:id="@+id/imageViewWelcome"
+        android:layout_width="240dp"
+        android:layout_height="240dp"
+        android:contentDescription="Welcome illustration"
+        android:scaleType="fitCenter" />
+
+    <TextView
+        android:id="@+id/textViewWelcomeTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:gravity="center"
+        android:text="Welcome to ARChronicles"
+        style="@style/OnboardingTitleText" />
+
+    <TextView
+        android:id="@+id/textViewWelcomeDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:gravity="center"
+        android:lineSpacingExtra="4dp"
+        android:text="Discover historical landmarks through immersive augmented reality. Experience the rich history of your city in a whole new way."
+        style="@style/OnboardingDescriptionText" />
+
+</LinearLayout> 
